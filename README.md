@@ -1,9 +1,6 @@
-# sample-contact-us-page
+# Static Website for my Company: Italian Passport Consulting for Italian Citizens residing in Brazil
 
-A sample contact us web page made with HTML, vanilla CSS and JS.
-
-Hosted at https://harshkapadia2.github.io/sample-contact-us-page/
+Hosted at https://storagededalus.z15.web.core.windows.net/
 
 The navbar and footer code was taken from my [sample-challenge-page](https://harshkapadia2.github.io/sample-challenges-page/) project.
-
 Input animation was learnt (not copy-pasted) from [Kartik Soneji's](https://www.linkedin.com/in/kartiksoneji/) project.
